@@ -1,0 +1,11 @@
+C:\Curso C-Sharp\Git\Git\obj\Debug\netcoreapp3.0\Git.csprojAssemblyReference.cache
+C:\Curso C-Sharp\Git\Git\obj\Debug\netcoreapp3.0\Git.AssemblyInfoInputs.cache
+C:\Curso C-Sharp\Git\Git\obj\Debug\netcoreapp3.0\Git.AssemblyInfo.cs
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.exe
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.deps.json
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.runtimeconfig.json
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.runtimeconfig.dev.json
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.dll
+C:\Curso C-Sharp\Git\Git\bin\Debug\netcoreapp3.0\Git.pdb
+C:\Curso C-Sharp\Git\Git\obj\Debug\netcoreapp3.0\Git.dll
+C:\Curso C-Sharp\Git\Git\obj\Debug\netcoreapp3.0\Git.pdb
